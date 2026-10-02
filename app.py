@@ -290,7 +290,7 @@ st.markdown(
     """
     <div class="hero">
       <div class="eyebrow">Adaptive Interview Intelligence</div>
-      <h1>Inteview Practice.</h1>
+      <h1>Interview Practice.</h1>
       <div class="muted">Choose question and answer modalities once, select a session length and interview categories, then Intervia automatically adapts the Q&A pace to the remaining time.</div>
     </div>
     """,
